@@ -1,0 +1,21 @@
+order_id,customer_name,city,order_date,product,quantity,price,status
+1001,Maria Fernandez,Lima,2025-03-01,Vestido Midi Negro,2,189.90,Entregado
+1002, Ana Torres ,LIMA,01/03/2025,Blazer Beige,1,"S/ 249.90",entregado
+1003,Carla Ruiz,lima,2025-03-02,Falda Plisada,,159.90,Pendiente
+1004,Maria Fernandez,Lima,2025-03-01,Vestido Midi Negro,2,189.90,Entregado
+1005,Sofia Vega,Callao,03/03/2025,Blusa Seda,1,129.90,ENTREGADO
+1006,Lucia Paredes,,2025-03-04,Pantalon Sastre,3,,Pendiente
+1007,Daniela Rojas,Arequipa,2025-03-05,Vestido Midi Negro,1,"189.90",Cancelado
+1008,camila Sanchez,Trujillo,05-03-2025,Blazer Beige,2,249.90,Entregado
+1009,Valentina Cruz,Lima ,2025-03-06,Falda Plisada,1,159.90,pendiente
+1010,Ana Torres,Lima,2025-03-07,Blusa Seda,,129.90,Entregado
+1011,Isabella Diaz,lima,2025-03-08,Pantalon Sastre,2,"S/ 219.90",Entregado
+1012,Renata Flores,Piura,2025-03-08,Vestido Midi Negro,1,189.90,Devuelto
+1013,Camila Sanchez,Trujillo,2025-03-09,Blazer Beige,1,249.9,entregado
+1014,Gabriela Torres,Cusco,09/03/2025,Blusa Seda,2,129.9,Pendiente
+1015,Mia Castro,LIMA,2025-03-10,Falda Plisada,,159.9,Entregado
+1016,Valentina Cruz,Lima,2025-03-06,Falda Plisada,1,159.90,pendiente
+1017,Antonella Vidal,Lima,2025-03-11,Pantalon Sastre,1,219.90,Entregado
+1018,Fernanda Ortiz,,11-03-2025,Vestido Midi Negro,2,189.9,Entregado
+1019,Gianella Ponce,Arequipa,2025-03-12,Blazer Beige,,249.90,Cancelado
+1020,Camila Herrera,Trujillo,2025-03-13,Blusa Seda,1,"S/ 129.90",entregado
